@@ -39,3 +39,6 @@ pip-log.txt
 
 #VS Code
 .vscode
+
+* Project settings
+.idea/
